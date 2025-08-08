@@ -27,11 +27,11 @@ This is the primary metadata reference file, consolidating NMDR modules, indicat
 
 | Annex | Description |
 |-------|-------------|
-| Master Malaria Integrated Data_Repository | Standardized metadata elements, indicators, disaggregations, and option sets across malaria program areas. |
-| **Establishing an NMDR-example templates.xlsx ** 
-    Sample work plans | Costed Workplan Templates | Editable workplan templates with cost bands, estimated days, and resource mapping. |
-| **Readiness Assessment templates** 
-    Readiness & Self-Assessment Tools | Tools to assess governance, data quality, infrastructure, and readiness for NMDR implementation. |
+| **Master Malaria Integrated Data_Repository** | Standardized metadata elements, indicators, disaggregations, and option sets across malaria program areas. |
+| **Establishing an NMDR-example templates:** | Costed Budget and Workplan Templates Editable workplan templates with cost bands, estimated days, and resource mapping. |
+| **Readiness & Self-Assessment Tools Tools** | To assess governance, data quality, infrastructure, and readiness for NMDR implementation. |
+| **NMDR Module List** | Comprehensive listing of thematic modules, including routine and non-routine components. |
+
 ---
 
 ## 🌍 Using the Tools
