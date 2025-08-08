@@ -1,4 +1,4 @@
-# 🧭 Annexes for the National Malaria Data Repository (NMDR) Guidance
+# 🧭 National Malaria Data Repository (NMDR) Guidance
 
 Welcome to the annex repository for the **National Malaria Data Repository (NMDR) Guidance**. This page serves as a centralized, version-controlled space for countries, partners, and technical teams to access and adapt tools, templates, and supporting materials needed to plan, implement, and sustain an NMDR.
 
@@ -17,7 +17,7 @@ The **NMDR Guidance Document** provides countries with a practical roadmap to es
 **📌 Master Malaria Integrated Data_Repository.xlsx**  
 This is the primary metadata reference file, consolidating NMDR modules, indicators, and configurations.
 
-➡️ **[Download Master File](./Master%20Malaria%20Integrated%20Data_Repository.xlsx)**  
+➡️ **[Download Master File](./Annex/Master%20Malaria%20Integrated%20Data_Repository.xlsx)**  
 *(Update the link based on your repo file path)*
 
 ---
@@ -26,22 +26,16 @@ This is the primary metadata reference file, consolidating NMDR modules, indicat
 
 | Annex | Description |
 |-------|-------------|
-| **Annex 1:** Metadata Dictionary | Standardized metadata elements, indicators, disaggregations, and option sets across malaria program areas. |
-| **Annex 2:** Costed Workplan Templates | Editable workplan templates with cost bands, estimated days, and resource mapping. |
-| **Annex 3:** Readiness & Self-Assessment Tools | Tools to assess governance, data quality, infrastructure, and readiness for NMDR implementation. |
-| **Annex 4:** NMDR Module List | Comprehensive listing of thematic modules, including routine and non-routine components. |
-| **Annex 5:** DHIS2 Configuration Tools | Tools and installation guides for setting up standard NMDR modules in DHIS2. |
-| **Annex 6:** Dashboards and Use Case Templates | Example dashboard layouts and data-to-action use cases linked to key decision points. |
-
-> 💡 **Note:** These annexes are version-controlled. Countries are encouraged to clone or fork this repository to localize tools for national implementation.
-
+| Metadata Dictionary | Standardized metadata elements, indicators, disaggregations, and option sets across malaria program areas. |
+| **Establishing an NMDR-example templates.xlsx ** 
+    Sample work plans | Costed Workplan Templates | Editable workplan templates with cost bands, estimated days, and resource mapping. |
+| **Readiness Assessment templates** 
+    Readiness & Self-Assessment Tools | Tools to assess governance, data quality, infrastructure, and readiness for NMDR implementation. |
 ---
 
 ## 🌍 Using the Tools
 
-- Fork or clone this repo to adapt the annexes to your national context.
 - Use the provided templates and metadata as a starting point for your NMDR planning and setup.
-- Submit contributions or improvements via pull request.
 
 ---
 
