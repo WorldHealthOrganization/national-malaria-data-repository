@@ -12,7 +12,7 @@ The **NMDR Guidance Document** provides countries with a practical roadmap to es
 
 ---
 
-## 📄 Primary Reference
+## 📄 Indicator Reference
 
 **📌 Master Malaria Integrated Data_Repository.xlsx**  
 This is the primary metadata reference file, consolidating NMDR modules, indicators, and configurations.
