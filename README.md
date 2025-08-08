@@ -17,10 +17,8 @@ The **NMDR Guidance Document** provides countries with a practical roadmap to es
 **📌 Master Malaria Integrated Data_Repository.xlsx**  
 This is the primary metadata reference file, consolidating NMDR modules, indicators, and configurations.
 
-➡️ **[Download Master Malaria Integrated Data_Repository]([./Annex/Master%20Malaria%20Integrated%20Data_Repository.xlsx](https://raw.githubusercontent.com/ezrow/nmdr-guidance/main/Annex/Master%20Malaria%20Integrated%20Data_Repository.xlsx
-))**  
-*(Update the link based on your repo file path)*
-
+➡️ **[Download Master Malaria Integrated Data_Repository](https://raw.githubusercontent.com/WorldHealthOrganization/national-malaria-data-repository/main/Annex/Master%20Malaria%20Integrated%20Data_Repository.xlsx
+)**  
 ---
 
 ## 📁 Annex List
