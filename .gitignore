@@ -1,0 +1,4 @@
+# Ignore Excel temp files
+~$*.xls*
+# Ignore macOS Finder metadata
+.DS_Store
